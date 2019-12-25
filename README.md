@@ -17,10 +17,10 @@ ssserver -c /etc/shadowsocks.json -d start
 ```
 {
     "server":"0.0.0.0",
-    "server_port":8383,
+    "server_port":0000,
     "local_address": "127.0.0.1",
     "local_port":1080,
-    "password":"2xGk47T3",
+    "password":"xxx",
     "timeout":300,
     "method":"aes-256-cfb",
     "fast_open": false
